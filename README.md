@@ -8,9 +8,15 @@ with options for the user to choose from to manipulate the matrices.
 
 //Menu Ex.
 Select a Matrix Operation from the list below: 
+
 a. Addition
+
 b. Subtraction
+
 c. Matrix Multiplication
+
 d. Element by element multiplication
+
 e. Exit menu
+
 enter letter option: 
