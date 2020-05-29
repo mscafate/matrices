@@ -7,6 +7,7 @@ with options for the user to choose from to manipulate the matrices.
 
 
 //Menu Ex.
+
 Select a Matrix Operation from the list below: 
 
 a. Addition
